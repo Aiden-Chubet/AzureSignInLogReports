@@ -1,3 +1,4 @@
+#Install Module and Connect Tenant to view logs
 Install-module -Name AzureADpreview
 Connect-AzureAD
 
